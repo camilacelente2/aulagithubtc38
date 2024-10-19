@@ -1,1 +1,12 @@
 Exercicio de git
+git init (inicia um repositorio)
+git config user.name (configura um nome de usuario)
+git config user.email (configura um usuario)
+git status (verifica status de repositorio)
+--global (configura globalmente)
+git add . (adiciona slteracoes)
+git branch -d (delete branch -D forca delete)
+git log (historico de commits)
+git branch -m (muda nome da branch)
+git commit -m (cria historico de alteracoes com mensagem)
+git -v (verifica a versao do git)
